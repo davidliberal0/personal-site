@@ -145,9 +145,9 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of developing serveral projects such
               as <a href="https://us.mullenlowe.com/">PokeExpert</a>, and{' '}
               <a href="https://starry.com/">SoundScout</a>, and working with{' '}
-              <a href="https://www.apple.com/">JP Morgan Chase's Perspective</a>. My main focus
-              these days is building accessible, inclusive products and digital experiences at{' '}
-              <a href="https://upstatement.com/">Upstatement</a> for a variety of clients.
+              <a href="https://www.apple.com/">JP Morgan Chase's Perspective</a> application. My
+              main focus these days is building accessible and inclusive products that help me
+              explore my interests within the field of technology.
             </p>
 
             <p>
