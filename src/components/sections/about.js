@@ -151,12 +151,11 @@ const About = () => {
             </p>
 
             <p>
-              I also recently{' '}
+              I also recently started working a personal project called{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+                ColoredCoders
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              , an organization for minorities that want to pursure a career in tech.
             </p>
 
             <p>Here are a few technologies I’ve been working:</p>
