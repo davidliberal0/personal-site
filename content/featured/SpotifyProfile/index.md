@@ -1,15 +1,18 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'SoundScout'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/davidliberal0/SoundScout/tree/main'
+external: 'https://github.com/davidliberal0/SoundScout/tree/main'
 tech:
-  - React
-  - Styled Components
-  - Express
+  - Python
+  - Pandas
   - Spotify API
-  - Heroku
+  - Data
+  - Anaconda
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+An application for visualizing personalized Spotify data. Application for users to discover new music using Spotify Web API
+An application of data
+science uses recommendation algorithms, such as collaborative filtering, content-based filtering, and hybrid approaches, to
+generate music recommendations. Fetches listening behavior data, preferences and patterns from user specified playlist.
