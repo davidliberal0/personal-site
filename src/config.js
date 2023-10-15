@@ -7,10 +7,6 @@ module.exports = {
       url: 'https://github.com/davidliberal0',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/nightly.dev/',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/davidliberal',
     },

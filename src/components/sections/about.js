@@ -143,11 +143,11 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of developing serveral projects such
-              as <a href="https://us.mullenlowe.com/">PokeExpert</a>, and{' '}
-              <a href="https://starry.com/">SoundScout</a>, and working with{' '}
-              <a href="https://www.apple.com/">JP Morgan Chase's Perspective</a> application. My
-              main focus these days is building accessible and inclusive products that help me
-              explore my interests within the field of technology.
+              as <a href="https://davidliberal0.github.io/poke-expert-react/">PokeExpert</a>, and{' '}
+              <a href="https://github.com/davidliberal0/SoundScout">SoundScout</a>, and working with{' '}
+              <a href="https://perspective.finos.org/">JP Morgan Chase's Perspective</a>{' '}
+              application. My main focus these days is building accessible and inclusive products
+              that help me explore my interests within the field of technology.
             </p>
 
             <p>
