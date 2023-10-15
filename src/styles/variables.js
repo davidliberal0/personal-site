@@ -1,5 +1,8 @@
 import { css } from 'styled-components';
 
+// change green to #36eeff for blue
+// yellow #fcc603
+
 const variables = css`
   :root {
     --dark-navy: #020c1b;
@@ -12,7 +15,7 @@ const variables = css`
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
-    --green: #fcc603;
+    --green: #36eeff;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;

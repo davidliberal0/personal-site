@@ -1,16 +1,18 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Wifi Troubleshooter'
 cover: './course-card.png'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - C++
+  - Windows
+  - Linux
+  - Command-Line Interface
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+A robust command-line interface (CLI)
+application, implemented in C/C++, featuring a secure login system that accommodates user authentication via both
+username and password. This application is designed to assist end-users in diagnosing and resolving issues with their wireless
+internet connectivity. It boasts a comprehensive logging mechanism that diligently records the date and time of each
+application instance’s execution.

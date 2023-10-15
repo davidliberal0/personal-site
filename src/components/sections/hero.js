@@ -34,7 +34,7 @@ const StyledHeroSection = styled.section`
     color: var(--green);
     line-height: 0.9;
     font-size: 50px;
-    text-shadow: 0 0 3px #fcc603;
+    text-shadow: 0 0 3px #36eeff;
   }
 
   p {
