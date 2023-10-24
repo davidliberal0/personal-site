@@ -22,7 +22,7 @@ const IconLogo = () => (
   //   </g>
   // </svg>
   <h3>
-    <FaFileCode style={{ color: '#36eeff' }} />
+    <FaFileCode style={{ color: '#fcc603' }} />
   </h3>
 );
 

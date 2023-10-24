@@ -7,7 +7,7 @@ const variables = css`
   :root {
     --dark-navy: #020c1b;
     --navy: #0c0d0d;
-    --light-navy: #112240;
+    --light-navy: #1a1a1a;
     --lightest-navy: #233554;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
@@ -15,7 +15,7 @@ const variables = css`
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
-    --green: #36eeff;
+    --green: #fcc603;
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
