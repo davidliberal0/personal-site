@@ -1,14 +1,12 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2023-03-19'
+title: 'Slot Machine'
+github: 'https://github.com/davidliberal0/slot-machine/commit/fe3b9eb65c63727ba3d264805cb9496fc5ab7a85'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Python
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Slot machine application that allows you to make wagers and win cash!

@@ -1,14 +1,17 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Goal Setter'
+github: 'https://github.com/davidliberal0/goal-setter/commit/0f8f5008905cc6ff528e27f839a9f8dceda97e8b'
+external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - JavaScript
+  - React.js
+  - MongoDB
+  - Express
+  - Node.js
+  - Redux
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+An online application that helps you set and crush your goals in a timely manner.
