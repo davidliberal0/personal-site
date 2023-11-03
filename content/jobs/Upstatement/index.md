@@ -1,7 +1,7 @@
 ---
 date: '2024-01-08'
 title: 'Software Engineer Intern'
-company: 'Siemens'
+company: 'Siemens DISW'
 location: 'Boston, MA'
 range: 'January 2024 - Present'
 url: 'https://www.siemens.com/global/en.html'
