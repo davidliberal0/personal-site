@@ -6,7 +6,7 @@ module.exports = {
     description:
       'David Liberal is a software engineer who specializes in building and designing) exceptional products.',
     siteUrl: 'https://davidliberal.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
   plugins: [
