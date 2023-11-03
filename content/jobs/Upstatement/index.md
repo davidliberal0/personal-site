@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
+date: '2024-01-08'
+title: 'Software Engineer Intern'
+company: 'Siemens'
 location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+range: 'January 2024 - Present'
+url: 'https://www.siemens.com/global/en.html'
 ---
 
 - Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
