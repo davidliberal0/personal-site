@@ -7,6 +7,7 @@ module.exports = {
     siteUrl: 'https://davidliberal.com', // No trailing slash allowed!
     image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
+    keywords: 'David Liberal',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
