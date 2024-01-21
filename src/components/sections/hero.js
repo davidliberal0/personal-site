@@ -67,10 +67,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a passionate computer science student with a diverse set of skills and interests
-        spanning from cloud computing, data science, and software engineering. I enjoy solving
-        complex problems and collaborating to bring innovative ideas to life in the world of
-        technology.{' '}
+        Hi I am David Liberal. I am a passionate computer science student with a diverse set of
+        skills and interests spanning from cloud computing, data science, and software engineering.
+        I enjoy solving complex problems and collaborating to bring innovative ideas to life in the
+        world of technology.{' '}
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
