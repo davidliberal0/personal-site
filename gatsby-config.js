@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'David Liberal politics conservative politic',
+    title: 'David Liberal',
     description: 'David Liberal Software Engineer',
     siteUrl: 'https://davidliberal.com', // No trailing slash allowed!
     image: './static/david_liberal.png', // Path to your image you placed in the 'static' folder
