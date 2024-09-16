@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Wifi Troubleshooter'
-cover: './course-card.png'
+cover: './wifi-troubleshooter.png'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
