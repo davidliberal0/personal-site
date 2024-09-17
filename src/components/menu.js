@@ -74,7 +74,7 @@ const StyledHamburgerButton = styled.button`
       top: ${props => (props.menuOpen ? `0` : `-10px`)};
       opacity: ${props => (props.menuOpen ? 0 : 1)};
       transition: ${({ menuOpen }) =>
-        menuOpen ? 'var(--ham-before-active)' : 'var(--ham-before)'};
+    menuOpen ? 'var(--ham-before-active)' : 'var(--ham-before)'};
     }
     &:after {
       width: ${props => (props.menuOpen ? `100%` : `80%`)};
@@ -266,9 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a
-              href="https://www.dropbox.com/scl/fi/id433dsvkkxo59pyrj8ff/David-New-Oct-Resume-New-2023.pdf?rlkey=pn9e8gcx6x408yaws03779gie&dl=0"
-              className="resume-link">
+            <a href="./David_Liberal_Resume.pdf" className="resume-link">
               Resume
             </a>
           </nav>
