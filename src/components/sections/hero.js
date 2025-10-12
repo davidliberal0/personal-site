@@ -67,9 +67,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a passionate computer science student with a diverse set of skills and interests across
-        cloud computing, data science, and software engineering. I enjoy solving complex problems
-        and collaborating to bring innovative ideas to life in the world of technology.{' '}
+        I’m a passionate Software Engineer with a diverse set of skills and interests across cloud
+        computing, data science, and software engineering. I enjoy solving complex problems and
+        collaborating to bring innovative ideas to life in the world of technology.{' '}
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
