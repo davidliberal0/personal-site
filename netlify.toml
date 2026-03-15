@@ -1,0 +1,10 @@
+[build.environment]
+  NODE_VERSION = "18"
+```
+
+---
+
+**Option 3 — Set it in the Netlify UI:**
+Go to **Site Settings → Build & Deploy → Environment Variables** and add:
+```
+NODE_VERSION = 18
